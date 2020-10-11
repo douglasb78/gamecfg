@@ -4,6 +4,7 @@
 [mastercomfig-medium-preset](https://github.com/mastercomfig/mastercomfig/releases)
 
 **Optional:**
+
 [cleantf2plus-master](https://github.com/JarateKing/CleanTF2plus)
 (No Playergibs, No Shells, No Weapongibs, Surfaceproperties & Nohats)
 
@@ -20,6 +21,7 @@
 [Hudas-Iscariote-master](https://github.com/Hypnootize/Hudas-Iscariote)
 
 **Launch options:**
+
 Gameplay:
 
     -dxlevel 95 -fullscreen -w 1366 -h 768 -console -novid
