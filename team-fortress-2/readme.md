@@ -1,6 +1,7 @@
 # TF2 Config
 
 **Requires:**
+
 [mastercomfig-medium-preset](https://github.com/mastercomfig/mastercomfig/releases)
 
 **Optional:**
