@@ -1,4 +1,4 @@
-# TF2 Config
+# Team Fortress 2
 
 **Requires:**
 
