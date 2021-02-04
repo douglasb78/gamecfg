@@ -7,7 +7,7 @@
 **Optional:**
 
 [cleantf2plus-master](https://github.com/JarateKing/CleanTF2plus)
-(No Playergibs, No Shells, No Weapongibs, Surfaceproperties & Nohats)
+(No Shells, No Weapongibs, Surfaceproperties & Nohats)
 
 [mastercomfig-disable-pyroland-addon](https://github.com/mastercomfig/mastercomfig/releases)
 
@@ -29,5 +29,5 @@ Gameplay:
 
 Demo recording:
 
-    -dxlevel 95 -windowed -w 1366 -h 768 -console -novid +exec douglasb2310
+    -insecure -dxlevel 95 -windowed -w 1366 -h 768 -console -novid +exec douglasb2310
 
