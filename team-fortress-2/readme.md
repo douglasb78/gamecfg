@@ -7,7 +7,7 @@
 **Optional:**
 
 [cleantf2plus-master](https://github.com/JarateKing/CleanTF2plus)
-(No Shells, No Weapongibs, Surfaceproperties & Nohats)
+(No Shells, Surfaceproperties & Nohats)
 
 [mastercomfig-disable-pyroland-addon](https://github.com/mastercomfig/mastercomfig/releases)
 
