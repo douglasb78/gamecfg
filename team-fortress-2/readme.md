@@ -25,9 +25,9 @@
 
 Gameplay:
 
-    -dxlevel 95 -fullscreen -w 1366 -h 768 -console -novid +exec douglasb2310
+    -dxlevel 95 -fullscreen -w 1366 -h 768 -console -novid +exec _settings
 
 Demo recording:
 
-    -insecure -dxlevel 95 -windowed -w 1366 -h 768 -console -novid +exec douglasb2310
+    -insecure -dxlevel 95 -windowed -w 1366 -h 768 -console -novid +exec _settings
 
