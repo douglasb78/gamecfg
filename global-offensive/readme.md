@@ -2,4 +2,4 @@
 
 **Launch options:**
 
-    -fullscreen -w 1366 -h 768 -novid -maxplayers_override 12
+    -fullscreen -w 1440 -h 900 -novid -maxplayers_override 12
