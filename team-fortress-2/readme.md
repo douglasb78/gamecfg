@@ -12,8 +12,6 @@
 
 [mastercomfig-null-canceling-movement](https://github.com/mastercomfig/mastercomfig/releases)
 
-[Hudas-Iscariote-master](https://github.com/Hypnootize/Hudas-Iscariote)
-
 **Launch options:**
 
 Gameplay:
