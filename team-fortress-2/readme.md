@@ -12,6 +12,8 @@
 
 [mastercomfig-null-canceling-movement](https://github.com/mastercomfig/mastercomfig/releases)
 
+[tf2-budhud-douglasb78](https://github.com/douglasb78/tf2-budhud-douglasb78)
+
 **Launch options:**
 
 Gameplay:
