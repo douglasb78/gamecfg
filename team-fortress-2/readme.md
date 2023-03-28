@@ -16,4 +16,4 @@
 
 Gameplay:
 
-    -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
+    -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
